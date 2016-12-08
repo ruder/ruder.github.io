@@ -69,5 +69,5 @@ theme: hexo-theme-hueman-0.3.0
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: http://github.com/ruder/ruder.github.io.git
+  repo: git@github.com:ruder/ruder.github.io.git
   branch: master
